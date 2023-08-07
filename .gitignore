@@ -1,0 +1,5 @@
+# ignore directories
+vscode/
+
+# ignore files 
+extensions.json
